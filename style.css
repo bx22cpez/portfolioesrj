@@ -1,0 +1,33 @@
+
+h1{
+    color:rgb(207, 241, 14);
+    
+}
+
+p,h2{
+    color:rebeccapurple;
+    text-align: center;
+}
+
+/* *{
+    border:solid
+} */
+
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content: center;
+}
+
+.grid{
+    background-color: azure;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.footer{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: flex-end;
+}
